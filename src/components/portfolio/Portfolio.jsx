@@ -36,7 +36,7 @@ const Portfolio = () => {
         
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={IMG3} alt="Image Recognition tool" />
+            <img src={IMG3} alt="Picture Recognition tool" />
           </div>
           <h3>Image Recognition tool</h3>
           <div className="portfolio__item-cta">
